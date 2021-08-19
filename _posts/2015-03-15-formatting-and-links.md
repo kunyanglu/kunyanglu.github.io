@@ -1,28 +1,42 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
+title:  Reflection on Determinism
+date:   2021-08-04 16:40:16
 description: march & april, looking forward to summer
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+I’m not a fan of the concept of derterminism because I embrace a passionate conviction in free fill.
 
-#### Hipster list
+Just quickly googling the term, I found the following definition offered in courtesy of Oxford Languages:<br>
+
+#### Determinism:
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+     the doctrine that all events, including human action, are ultimately determined by causes external to the will.
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+My position on this worldview is absolute —
+
+<blockquote>
+    Determinism converys passivity, not transcedence; it downgrades the volition of human beings — a cogitive capacity most remarkably developed in homo sapiens, indispensable for the existence of virtues, and crucial for our moral judgments; it diminishes us, people who make relentless efforts in pursuing our own happiness, to a group of dummies, making unavailing sways that are inescapable to the grip of some puppet manipulator out of the reach.
+</blockquote>
 
 <hr>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+“God does not play dice with the universe”, a phrase from Albert Einstein that I’m sure most of us are familiar with. Einstein accepts the mathematical laws (I would like to undertsand his reference to ‘God’ as a metaphor of the natural laws) that govern the formation and transformation of the universe as objective realities that should be taken for granted — in simplier terms, </em>**existence exists**</em>.
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+**But his words have been wrongly assumed for promoting the view of determinism.**
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+It seems to many people that determinism provides theoretical foundation for scientific endeavors. The mission of science is to uncover the natural laws that determine the universe, but before embarking on the journey of making discoveries, we first need to agree that the objective realities can be discovered — that is, </em>**existence exists, and we can know it**</em>.
+
+First of all, that </em>**existence exists</em>** and that </em>**we can know it**</em> are two axioms which I endorse wholeheartedly. However, I don’t think these two axioms lead to the conclusion of determinism. Let me illustrate.
+
+That </em>**existence exists</em>** and </em>**we can know it**</em> means we can discover hidden principles that can relate causes to corresponding effects or find association among variables. Free will is the freedom of controlling our mind to make decisions, so the existence of independent decision making serves to falsify determinism. **That we can uncover and study the natural laws of the universe by no means has the possibility of inhibiting the process of independent decision making.**
+
+The arrival of a rational decision, which is the kind most likely to affect our lives significantly, requires a two-stage process: first, we have to receive external signals from the surrounding environment and then these signals would trigger sensual and perceptual responses; second, we must integrate these low-level, spontaneous responses into a concrete decision that is geared towards certain meaningful purpose — The latter process is much more sophisticated and it is known as *thinking*.
+
+Our mind can be geared towards a purpose of our choice only if we want it. That is, if the human mind were to be metaphorically regarded as a horse — it could meander aimlessly or it could dash for a particular destination — then its rein is in our hands, meaning that we retain the power of choosing to either drift along at its default mode or actively employ it with alertness.
+
+That we can choose to make a choice of drifting or thinking is a fundamental capacity that is unaffected by any pre-determined factors out of our control, which include inborn genetics, prior environment of our upbringing, or some combination of the two. The extent to which we employ our mind is also left to our will: we can choose to think hard, not so hard, or not at all.
+
+<hr>
+
+Because thinking is a voluntary action, decisions — which are obtained from thinking — are also in the control of our mind. Our ability to make choices is powerful. Choice is not an illusion. We have fundamental control over our own mind and we have fundamental control over the path that we aim to take.
