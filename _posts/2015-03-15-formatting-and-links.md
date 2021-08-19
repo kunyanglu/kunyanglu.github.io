@@ -2,7 +2,7 @@
 layout: post
 title:  Reflection on Determinism
 date:   2021-08-04 16:40:16
-description: march & april, looking forward to summer
+description: “God does not play dice with the universe”
 ---
 I’m not a fan of the concept of derterminism because I embrace a passionate conviction in free fill.
 
@@ -21,15 +21,15 @@ My position on this worldview is absolute —
 
 <hr>
 
-“God does not play dice with the universe”, a phrase from Albert Einstein that I’m sure most of us are familiar with. Einstein accepts the mathematical laws (I would like to undertsand his reference to ‘God’ as a metaphor of the natural laws) that govern the formation and transformation of the universe as objective realities that should be taken for granted — in simplier terms, </em>**existence exists**</em>.
+“God does not play dice with the universe”, a phrase from Albert Einstein that I’m sure most of us are familiar with. Einstein accepts the mathematical laws (I would like to undertsand his reference to ‘God’ as a metaphor of the natural laws) that govern the formation and transformation of the universe as objective realities that should be taken for granted — in simplier terms, *existence exists*.
 
 **But his words have been wrongly assumed for promoting the view of determinism.**
 
-It seems to many people that determinism provides theoretical foundation for scientific endeavors. The mission of science is to uncover the natural laws that determine the universe, but before embarking on the journey of making discoveries, we first need to agree that the objective realities can be discovered — that is, </em>**existence exists, and we can know it**</em>.
+It seems to many people that determinism provides theoretical foundation for scientific endeavors. The mission of science is to uncover the natural laws that determine the universe, but before embarking on the journey of making discoveries, we first need to agree that the objective realities can be discovered — that is, *existence exists, and we can know it*.
 
-First of all, that </em>**existence exists</em>** and that </em>**we can know it**</em> are two axioms which I endorse wholeheartedly. However, I don’t think these two axioms lead to the conclusion of determinism. Let me illustrate.
+First of all, that *existence exists* and that *we can know it* are two axioms which I endorse wholeheartedly. However, I don’t think these two axioms lead to the conclusion of determinism. Let me illustrate.
 
-That </em>**existence exists</em>** and </em>**we can know it**</em> means we can discover hidden principles that can relate causes to corresponding effects or find association among variables. Free will is the freedom of controlling our mind to make decisions, so the existence of independent decision making serves to falsify determinism. **That we can uncover and study the natural laws of the universe by no means has the possibility of inhibiting the process of independent decision making.**
+That *existence exists* and *we can know it* means we can discover hidden principles that can relate causes to corresponding effects or find association among variables. Free will is the freedom of controlling our mind to make decisions, so the existence of independent decision making serves to falsify determinism. **That we can uncover and study the natural laws of the universe by no means has the possibility of inhibiting the process of independent decision making.**
 
 The arrival of a rational decision, which is the kind most likely to affect our lives significantly, requires a two-stage process: first, we have to receive external signals from the surrounding environment and then these signals would trigger sensual and perceptual responses; second, we must integrate these low-level, spontaneous responses into a concrete decision that is geared towards certain meaningful purpose — The latter process is much more sophisticated and it is known as *thinking*.
 
