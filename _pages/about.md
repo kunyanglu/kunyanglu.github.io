@@ -8,9 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Undergraduate @Mudd</p>
-    <p>Major: CS-Math & Physics</p>
-    <p>Email: allu[at]hmc[dot]edu</p>
+    <p>undergraduate @Mudd</p>
+    <p>passion in computational neroscience</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 ## hi there ￣▽￣
 
-I am Alicia Lu, a junior undergraduate at [**Harvey Mudd College**](https://www.hmc.edu/), double majoring in physics and a joint major in computer science and mathematics with a concentration in philosophy. While trying hard to balance depth and breadth simultaneously, I find myself highly attracted to interdisciplinary subjects, which is why computational neuroscience has become my particular academic interest.
+I am Alicia Lu, a junior undergraduate at [**Harvey Mudd College**](https://www.hmc.edu/), double majoring in [**physics**](https://physics.hmc.edu/program/) and a [joint major in computer science and mathematics](https://www.cs.hmc.edu/program/csmath-major) with a concentration in philosophy. While trying hard to balance depth and breadth simultaneously, I find myself highly attracted to interdisciplinary subjects, which is why computational neuroscience has become my particular academic interest.
 
-I am currently part of the LIVE lab at Scripps College, where I will work on analyzing EEG and fMRI data using MLE and Bayesian estimation of model parameters.
+I am currently part of the Laboratory for Inquiring into Valuation and Emotion (LIVE) at Scripps College, where I will work on analyzing EEG and fMRI data using MLE and Bayesian estimation of model parameters.
 
 In the previous two years, I have explored path planning for multi-AUV systems at the [**Lab of Autonomous and Intelligent Robotics (LAIR)**](https://www.lair.hmc.edu/).
 
