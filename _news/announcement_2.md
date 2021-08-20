@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2021-07-20 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I presented my work during the internship on *Analysis of the relation of neurotransmitter identity and ultrastructural features of synapses*.
 
 ***
 
