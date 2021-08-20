@@ -23,7 +23,7 @@ I am a junior undergraduate at [**Harvey Mudd College**](https://www.hmc.edu/), 
 
 I am currently part of the LIVE lab at Scripps College, where I will work on analyzing EEG and fMRI data using MLE and Bayesian estimation of model parameters.
 
-In the previous two years, I have explored path planning for multi-AUV systems at the [**Lab of Autonomous and Intelligent Robotics (LAIR)**](https://www.lair.hmc.edu/). You can find out more about our project [here](https://github.com/kunyanglu/hmc-lair-shark-tracking).
+In the previous two years, I have explored path planning for multi-AUV systems at the [**Lab of Autonomous and Intelligent Robotics (LAIR)**](https://www.lair.hmc.edu/).
 
 I also spent another summer at the [**Funke Lab**](https://www.janelia.org/lab/funke-lab) thanks to the [**Janelia Undergraduate Scholar Program**](https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program) supported by the [**Janelia Research Campus**](https://www.janelia.org/).
 
