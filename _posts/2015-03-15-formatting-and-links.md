@@ -39,4 +39,4 @@ That we can choose to make a choice of drifting or thinking is a fundamental cap
 
 <hr>
 
-Because thinking is a voluntary action, decisions — which are obtained from thinking — are also in the control of our mind. Our ability to make choices is powerful. Choice is not an illusion. We have fundamental control over our own mind and we have fundamental control over the path that we aim to take.
+Because thinking is a voluntary action, decisions — which are obtained from thinking — are also in the control of our mind. Our ability to make choices is powerful. Choice is not an illusion. We have fundamental control over our own mind. We choose the path that we aim to take.
