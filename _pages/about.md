@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>undergraduate @Mudd</p>
-    <p>passion in computational neroscience</p>
+    <p>passion in computational neuroscience</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
