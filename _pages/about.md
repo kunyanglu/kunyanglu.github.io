@@ -8,16 +8,16 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>my_crush_list = [neuroscience, r</p>
-    <p>computer science, math, </p>
-    <p>physics, philosophy]</p>
+    <p>Undergraduate @Mudd</p>
+    <p>Major: CS-Math & Physics</p>
+    <p>Email: allu[at]hmc[dot]edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## hi there~
+## hi there  (●ﾟωﾟ●)
 
 I am a junior undergraduate at [**Harvey Mudd College**](https://www.hmc.edu/), double majoring in physics and a joint major in computer science and mathematics with a concentration in philosophy. While trying hard to balance depth and breadth simultaneously, I find myself highly attracted to interdisciplinary subjects, which is why computational neuroscience has become my particular academic interest.
 
