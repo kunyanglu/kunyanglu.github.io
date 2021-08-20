@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#"></a>
+description: <a href="#"></a>   
 
 profile:
   align: right
