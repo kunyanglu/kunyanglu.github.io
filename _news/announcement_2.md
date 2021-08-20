@@ -1,11 +1,9 @@
 ---
 layout: post
-title: A long announcement with details
+title: I presented my work on *Analysis of the relation of neurotransmitter identity and ultrastructural features of synapses* at Janelia's JTheory seminar.
 date: 2021-07-20 16:11:00-0400
 inline: false
 ---
-
-I presented my work during the internship on *Analysis of the relation of neurotransmitter identity and ultrastructural features of synapses*.
 
 ***
 
