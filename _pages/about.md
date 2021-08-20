@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## hi there ￣▽￣
 
-I am a junior undergraduate at [**Harvey Mudd College**](https://www.hmc.edu/), double majoring in physics and a joint major in computer science and mathematics with a concentration in philosophy. While trying hard to balance depth and breadth simultaneously, I find myself highly attracted to interdisciplinary subjects, which is why computational neuroscience has become my particular academic interest.
+I am Alicia Lu, a junior undergraduate at [**Harvey Mudd College**](https://www.hmc.edu/), double majoring in physics and a joint major in computer science and mathematics with a concentration in philosophy. While trying hard to balance depth and breadth simultaneously, I find myself highly attracted to interdisciplinary subjects, which is why computational neuroscience has become my particular academic interest.
 
 I am currently part of the LIVE lab at Scripps College, where I will work on analyzing EEG and fMRI data using MLE and Bayesian estimation of model parameters.
 
