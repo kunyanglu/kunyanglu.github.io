@@ -8,8 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>undergraduate @Mudd</p>
-    <p>passion in computational neuroscience</p>
+    <p>just a mudder in love with comp neuro</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
