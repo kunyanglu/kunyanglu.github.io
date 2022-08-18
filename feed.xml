@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-08-18T21:56:45+00:00</updated><id>/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">A Guide to become a Fashion Icon like Steve Jobs</title><link href="/blog/2021/Fashion/" rel="alternate" type="text/html" title="A Guide to become a Fashion Icon like Steve Jobs" /><published>2021-08-10T16:40:16+00:00</published><updated>2021-08-10T16:40:16+00:00</updated><id>/blog/2021/Fashion</id><content type="html" xml:base="/blog/2021/Fashion/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[the buying philosophy behind the richest few]]></summary></entry><entry><title type="html">Reflection on Determinism</title><link href="/blog/2021/determinism/" rel="alternate" type="text/html" title="Reflection on Determinism" /><published>2021-08-04T16:40:16+00:00</published><updated>2021-08-04T16:40:16+00:00</updated><id>/blog/2021/determinism</id><content type="html" xml:base="/blog/2021/determinism/"><![CDATA[<p>I’m not a fan of the concept of derterminism because I embrace a passionate conviction in free fill.</p>
+
+<p>Just quickly googling the term, I found the following definition offered in courtesy of Oxford Languages:<br /></p>
+
+<h4 id="determinism">Determinism:</h4>
+<ul>
+     the doctrine that all events, including human action, are ultimately determined by causes external to the will.
+</ul>
+
+<p>My position on this worldview is absolute —</p>
+
+<blockquote>
+    Determinism converys passivity, not transcedence; it downgrades the volition of human beings — a cogitive capacity most remarkably developed in homo sapiens, indispensable for the existence of virtues, and crucial for our moral judgments; it diminishes us, people who make relentless efforts in pursuing our own happiness, to a group of dummies, making unavailing sways that are inescapable to the grip of some puppet manipulator out of the reach.
+</blockquote>
+
+<hr />
+
+<p>“God does not play dice with the universe”, a phrase from Albert Einstein that I’m sure most of us are familiar with. Einstein accepts the mathematical laws (I would like to undertsand his reference to ‘God’ as a metaphor of the natural laws) that govern the formation and transformation of the universe as objective realities that should be taken for granted — in simplier terms, <em>existence exists</em>.</p>
+
+<p><strong>But his words have been wrongly assumed for promoting the view of determinism.</strong></p>
+
+<p>It seems to many people that determinism provides theoretical foundation for scientific endeavors. The mission of science is to uncover the natural laws that determine the universe, but before embarking on the journey of making discoveries, we first need to agree that the objective realities can be discovered — that is, <em>existence exists, and we can know it</em>.</p>
+
+<p>First of all, that <em>existence exists</em> and that <em>we can know it</em> are two axioms which I endorse wholeheartedly. However, I don’t think these two axioms lead to the conclusion of determinism. Let me illustrate.</p>
+
+<p>That <em>existence exists</em> and <em>we can know it</em> means we can discover hidden principles that can relate causes to corresponding effects or find association among variables. Free will is the freedom of controlling our mind to make decisions, so the existence of independent decision making serves to falsify determinism. <strong>That we can uncover and study the natural laws of the universe by no means has the possibility of inhibiting the process of independent decision making.</strong></p>
+
+<p>The arrival of a rational decision, which is the kind most likely to affect our lives significantly, requires a two-stage process: first, we have to receive external signals from the surrounding environment and then these signals would trigger sensual and perceptual responses; second, we must integrate these low-level, spontaneous responses into a concrete decision that is geared towards certain meaningful purpose — The latter process is much more sophisticated and it is known as <em>thinking</em>.</p>
+
+<p>Our mind can be geared towards a purpose of our choice only if we want it. That is, if the human mind were to be metaphorically regarded as a horse — it could meander aimlessly or it could dash for a particular destination — then its rein is in our hands, meaning that we retain the power of choosing to either drift along at its default mode or actively employ it with alertness.</p>
+
+<p>That we can choose to make a choice of drifting or thinking is a fundamental capacity that is unaffected by any pre-determined factors out of our control, which include inborn genetics, prior environment of our upbringing, or some combination of the two. The extent to which we employ our mind is also left to our will: we can choose to think hard, not so hard, or not at all.</p>
+
+<hr />
+
+<p>Because thinking is a voluntary action, decisions — which are obtained from thinking — are also in the control of our mind. Our ability to make choices is powerful. Choice is not an illusion. We have fundamental control over our own mind. We choose the path that we aim to take.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[“God does not play dice with the universe”]]></summary></entry><entry><title type="html">What the GAN generates is Not Art</title><link href="/blog/2021/GANs/" rel="alternate" type="text/html" title="What the GAN generates is Not Art" /><published>2021-08-01T16:40:16+00:00</published><updated>2021-08-01T16:40:16+00:00</updated><id>/blog/2021/GANs</id><content type="html" xml:base="/blog/2021/GANs/"><![CDATA[<p>The generative adversarial networks–aka. GANs–came to light in 2014. Unlike any conventional architecture of neural networks developed previously, GANs has achieved tremendous success as a deep generative model in learning how the input data are distributed. One of the impressive applications after learning the data distribution is the generation of novel art of a particular style.</p>
+
+<p>However, despite its exceptional performance in generating art-like pieces, a fundamental question still remains–should what the GANs generate deserve an equivalent aesthetic status with art? <strong>The short answer is No</strong>.</p>
+
+<p>Before unfolding my arguments, let’s make sure we share a common understanding of what constitutes a piece of artwork.</p>
+
+<blockquote>
+Let’s consider two figures: Figure A is a photograph of the real Mount Olympus, while Figure B is also Mount Olympus, whereas this time with the presence of a few Greek deities (thus certainly not a photograph). Now, which one would you take as Art?
+</blockquote>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/not_art.jpg" data-zoomable="" />
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/art.jpg" data-zoomable="" />
+    </div>
+</div>
+<div class="caption">
+    Figure A on the Left. Figure B on the Right.
+</div>
+
+<p>I hope it is <a href="https://greekmythology.wikia.org/wiki/Mount_Olympus">Figure B</a> instead of <a href="https://pixels.com/featured/mount-olympus-mountain-mount-olympus-howie-garber.html">Figure A</a> that’s in our mind.</p>
+
+<p>The fundamental difference between these two figures is that one involves <strong><em>integration of a concept</em></strong>, while the other does not.</p>
+
+<p>The unique capacity of men is the integration of perceptual materials triggered by external stimuli into concepts by means of abstractions. Concepts have allowed us to deal with knowledge beyond the limitations of our perceptions that are the raw materials of conceptualization. The conceptual understanding of an entity or multiple entities is the <em>source</em> of art.</p>
+
+<blockquote>
+  Mount Olympus, which is the highest mountain in Greece, is a concrete existence on Earth, something the ancient Greeks saw and perceived daily; however the Mount Olympus as the residence of the Olympian gods and goddesses under the eyes of Zeus is not. No one climbed up the peak of Mount Olympus and saw the magnificent Olympus temple or had claimed to verify the existence of any of the Twelve Olympians--the Mount Olympus from the ancient Greek mythology is not a perceivable concrete, but a concept that is abstracted from integrating the perceivable characteristics of real Mount Olympus, such as its forbidden altitude and majestic and godly views.
+</blockquote>
+
+<p><strong><em>The source of art is concepts.</em></strong></p>
+
+<p>The creation of art is concretizing abstract, high-level concepts into tangible and perceivable pieces that reconnect us back to reality. The bridging of an abstraction to a new kind of reality is analogical to the process of translation. But before translating, a concept has to be created in the first place.</p>
+
+<hr />
+
+<p><strong><em>Where does a concept come from then?</em></strong></p>
+
+<p>Our arrival at a concept comes from integration–we have to grasp the perceivables, from those raw materials selecting the building blocks of an abstraction that is consistent with our ideal–the function of art is to exhibit an ideal existence.</p>
+
+<p>Take my own artistic taste as an example.</p>
+
+<blockquote>
+  I believe humans are heroic beings, who are capable of great virtues--which come by pursuing rational values with an absolutely guiltless heart--who are capable of happiness--which is achieved through objectively recognizing realities, then reshaping them creatively. The greatest virtue is possible if one chooses to commit oneself to relentless self-scrutinization. The most individualized happiness can be acquired if one chooses to achieve the most possible by using what is bestowed by nature to the fullest extent.
+  Thus my artistic ideal is the exhibition of the most virtuous and happiest being.
+</blockquote>
+
+<blockquote>
+The art I find appreciable is in consistency with my ideal image of human beings. For instance, I would stop by a portrait of a diligent ballet dancer in the Renaissance period who tries to exhaust the strength of her muscles in order to attain the perfect stance. However, I would feel contempt when seeing a painting of a gaut, dishevelled, drifting drug addict in the Anglo-Chinese War.
+</blockquote>
+
+<p>The source of art requires integration–a process involves perceiving, selecting, and abstracting, which is only possible through thinking–therefore, art is a concretized cognitive abstraction in nature and it can only be produced by humans–the only species known in reality to exhibit the required cognitive capacity of performing such a task.</p>
+
+<hr />
+
+<p><strong><em>So what is art?</em></strong></p>
+
+<p><em>In a nutshell, it is a reconstruction of realities into a piece expressive of a concept that demonstrates human ideals. Thinking is necessary in this process.</em></p>
+
+<p>This is why we don’t regard the real Mount Olympus in nature as a piece of art, but we may consider a painting of Mount Olympus with the Greek deities as.</p>
+
+<hr />
+
+<p><strong><em>So why is it that what GANs generate is not Art? What are missing out from the generations of GANs?</em></strong></p>
+
+<p><em>The problem is that concepts are either borrowed or completely absent in the pieces produced by GANs</em>.</p>
+
+<p>To understand why, we will need to unveil the particular art-generating mechanisms of this network.</p>
+
+<p>A GAN has two primary components, a <em>discriminator</em> and a <em>generator</em>. The discriminator aims to classify data from the original distribution (i.e. the training samples) from the counterfeits that mimic the true distribution. The generator’s interest is in producing the best counterfeits capable of fooling the discriminator. Through rounds and rounds of adversarial interactions between the discriminator and the generator, the neural network can eventually arrange data–pixels in this scenario–in a way of closely approximating the original distribution of the collection of images used for training.</p>
+
+<p>In other words, the generations of the GANs highly rely on the training data, and those data come from existing creations of previous artists. There is no such thing as an original concept in what the GANs produce–an artistic ideal that determines the layout and values of a bunch of pixels is stolen from real producers.</p>
+
+<p><strong><em>GANs are second-handers</em></strong>.</p>
+
+<p><strong>In general, code driven digital art should not be viewed as art because it is impossible for an original concept to exist–a first-hand concept can only be achieved through human cognition.</strong></p>
+
+<p>This does not mean that artists cannot get inspiration from what’s generated by the GANs–they are free to collect any sensual and perceptual sources as their raw materials for creation. However, the cognitive labor of selecting and integrating from those materials that requires thinking cannot be replaced by a computer–<em>it is just impossible</em>.</p>
+
+<p>To equate the various ways of arranging pixels learned by the GANs that relies on training on pre-existing pieces of original concepts with <em>Art</em>– a resting station that unfolds what is in the dreams of those who are on the most arduous journey of achieving the highest virtues–is a contemptuous depreciation of reason, individuals, and creation. Thus, I deem such a position as <em>unethical</em> in an attempt to defend what I hold as morally invaluable.</p>
+
+<hr />
+
+<p>I know my arguments might be taken as a storm in a teacup–afterall, the GANs generate beautiful visuals and that should be enough for qualifying them as art.</p>
+
+<p>But should they?</p>
+
+<p>Is a drop of liquid with all chemical ingredients found in a drop of tear the equivalent of real tears from those moments of extraordinary grief or happiness? Even if we cannot tell them apart, should we allow a mixture of chemicals and our tears to share the same philosophical grounding? Are human emotions so trivial to us that we feel careless of completely disregarding their existence; that we feel hesitant to even acknowledge their meaningfulness by granting them a slightly different status from the artificials?</p>
+
+<p><strong>I hope we are not.</strong></p>
+
+<p><strong>Beneath my fuss over the GANs lies my manifesto of an ideal existence.</strong></p>]]></content><author><name></name></author><summary type="html"><![CDATA[the principle of art through the lens of ethics]]></summary></entry></feed>
